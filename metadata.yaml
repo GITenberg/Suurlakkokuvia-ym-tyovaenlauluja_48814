@@ -1,4 +1,8 @@
 _repo: Suurlakkokuvia-ym-tyovaenlauluja_48814
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Kaatra, Kössi
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/44950
     wikipedia: https://fi.wikipedia.org/wiki/K%C3%B6ssi_Kaatra
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48814#Suurlakkokuvia-ym-tyovaenlauluja
 gutenberg_issued: '2015-04-27'
 gutenberg_type: Text
 identifiers:
